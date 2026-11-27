@@ -1,135 +1,86 @@
-# 👋 Hey, I'm Subrahmanya S Hegde
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&height=50&lines=Flutter+Developer+%F0%9F%93%B1;Mobile+App+Engineer+%F0%9F%9A%80;AI+Integration+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%E2%9C%A8" />
-</p>
+# Hi, I'm hegdev 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Explorer-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cross--Platform-Development-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat-square" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=560&height=40&lines=Flutter+%26+Mobile+App+Developer;Clean+architecture+%E2%80%A2+Great+UX;Building+apps+people+enjoy+using" alt="Flutter & Mobile App Developer" />
 
-<p align="center">
-  <b>Building digital experiences, exploring new technologies and turning ideas into reality.</b>
-</p>
+<br/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+
+</div>
 
 ---
 
-## ✦ About Me
+### About
 
-I'm a passionate developer who loves transforming ideas into beautiful, scalable and high-performance applications.
+I build cross-platform apps with **Flutter**, with a focus on clean architecture, smooth UI and reliable releases.
 
-- 🚀 Building modern applications with Flutter and Dart.
-- 📱 Exploring cross-platform development and mobile architecture.
-- 🧠 Experimenting with AI integrations and intelligent applications.
-- 🌱 Continuously learning Node.js, MongoDB, React Native and Kotlin.
-- 💡 Interested in clean architecture, state management and creative problem-solving.
-- 📸 Passionate about photography, creativity and exploring new places.
+- 📱 Building production apps for Android, iOS and the web
+- 🧱 Clean architecture, BLoC state management and dependency injection
+- 🚀 Automated testing and CI/CD to Google Play
+- 🤖 Exploring AI features inside mobile apps
+- 🌱 Currently learning more Node.js, Kotlin and backend design
+
+---
+
+### Featured project
+
+**PrepVana** — a free study app for tech interviews, government-exam preparation and school subjects, with short daily practice, offline content and English, Kannada and Malayalam support. Built with Flutter.
+
+---
+
+### Tech stack
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Creating%20Impact-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Always%20Learning-16A34A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Passion-Innovation-8B5CF6?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,js&theme=dark" />
 </p>
-
----
-
-## ✦ Tech Stack & Tools
-
-### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,python,js,c,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb,sqlite,nodejs&theme=dark" />
 </p>
-
-### Frameworks & Development
-
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,kotlin,laravel,dotnet,tailwind&theme=dark" />
-</p>
-
-### Databases & Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgres,mysql,sqlite&theme=dark" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,git,github,linux&theme=dark" />
-</p>
-
-### Technologies I'm Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,githubactions,linux&theme=dark" />
 </p>
 
 ---
 
-## ✦ GitHub Analytics
+### GitHub stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=subshegde&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subshegde&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com?user=subshegde&theme=github-dark-blue&hide_border=true" />
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hegdev2026&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hegdev2026&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=hegdev2026&theme=github-dark-blue&hide_border=true" />
+</div>
 
 ---
 
-## ✦ Contribution Activity
+### Contribution snake
 
-<p align="center">
-  <img src="https://github.com/subshegde/subshegde/blob/output/github-snake.svg" width="100%" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## ✦ What I Enjoy
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📱_App_Development-Building%20Experiences-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-Exploring%20Possibilities-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/📸_Photography-Capturing%20Moments-EC4899?style=flat-square" />
-  <img src="https://img.shields.io/badge/🌍_Exploration-Discovering%20Places-16A34A?style=flat-square" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hegdev2026/hegdev2026/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hegdev2026/hegdev2026/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hegdev2026/hegdev2026/output/github-snake.svg" />
+</picture>
 
 ---
 
-## ✦ Connect With Me
+### Contact
 
-<p align="center">
-  <a href="mailto:subrahmanyahegde460@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/subrahmanya-s-hegde-2329112a2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/SSHegdeVisuals">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@SSHegde.Visuals">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<a href="mailto:hegdev.official@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hegdev.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=subshegde&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
-</p>
+<br/>
 
-<h3 align="center">⚡ Code. Create. Innovate. Repeat.</h3>
+<img src="https://komarev.com/ghpvc/?username=hegdev2026&style=flat-square&color=2563EB&label=Profile+views" />
 
-<p align="center">
-  <i>Thanks for stopping by! Have a great day. ⭐</i>
-</p>
+<sub>Thanks for visiting ⭐</sub>
+
+</div>
